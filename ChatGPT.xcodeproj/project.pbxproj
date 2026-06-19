@@ -145,7 +145,6 @@
 		0A0CE2282DA13DED0069EA09 /* iOS7ImageViewOL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS7ImageViewOL@2x.png"; sourceTree = "<group>"; };
 		0A3722042D89777100EA788B /* CGImageAttachment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGImageAttachment.h; sourceTree = "<group>"; };
 		0A3722052D89777100EA788B /* CGImageAttachment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGImageAttachment.m; sourceTree = "<group>"; };
-		0A3722062D89777100EA788B /* CGImageAttachment.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGImageAttachment.xib; sourceTree = "<group>"; };
 		0A53FA702D80BCEE00081FE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ChatGPT/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
 		0A95635D2D8215E200CF99EC /* defaultAssistantAvatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = defaultAssistantAvatar.png; sourceTree = "<group>"; };
 		0A9563612D82166F00CF99EC /* defaultAssistantAvatar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "defaultAssistantAvatar@2x.png"; sourceTree = "<group>"; };
@@ -524,7 +523,6 @@
 				5B7FCE442D6B6C0600DF4899 /* CGConversationElementCell.m */,
 				0A3722042D89777100EA788B /* CGImageAttachment.h */,
 				0A3722052D89777100EA788B /* CGImageAttachment.m */,
-				0A3722062D89777100EA788B /* CGImageAttachment.xib */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -855,7 +853,6 @@
 				5B203AD02D3C4A79004EEA20 /* bar-BG@2x.png in Resources */,
 				5BB7D95E2D731A8500C7C5AD /* searchbar-BG.png in Resources */,
 				49A1BC0A2D3519DD002D9D00 /* ChatGPT-Info.plist in Resources */,
-				0A3722082D89777100EA788B /* CGImageAttachment.xib in Resources */,
 				0AF6A7352D8CB5D50060F3F8 /* attachmentCellMask@2x.png in Resources */,
 				0AB69E082DA14A1A00FC1619 /* iOS7Separator@2x.png in Resources */,
 				5B7FCE512D6B92F800DF4899 /* headerSeparator.png in Resources */,
