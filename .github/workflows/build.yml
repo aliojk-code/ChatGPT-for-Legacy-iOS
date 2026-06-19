@@ -1,0 +1,29 @@
+name: Build ChatGPT IPA
+
+on:
+workflow_dispatch:
+
+jobs:
+build:
+runs-on: macos-latest
+
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
+  - name: Select Xcode
+    run: sudo xcode-select -s /Applications/Xcode.app
+
+  - name: Show Xcode Version
+    run: xcodebuild -version
+
+  - name: Build
+    run: |
+      xcodebuild \
+      -project ChatGPT.xcodeproj \
+      -scheme ChatGPT \
+      -configuration Release \
+      -sdk iphoneos \
+      build
+```
