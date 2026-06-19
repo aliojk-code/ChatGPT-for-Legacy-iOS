@@ -13,7 +13,6 @@ jobs:
 
       - name: Show Xcode Version
         run: xcodebuild -version
-
       - name: Build
         run: |
           xcodebuild \
@@ -21,5 +20,6 @@ jobs:
             -scheme ChatGPT \
             -configuration Release \
             -sdk iphoneos \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
             build
-          
