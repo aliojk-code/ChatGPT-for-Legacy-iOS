@@ -115,8 +115,6 @@
 		5B9D665B2D3D13C4007BE404 /* SendBarButtonPressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B9D665A2D3D13C4007BE404 /* SendBarButtonPressed@2x.png */; };
 		5B9D665D2D3D157F007BE404 /* SendBarButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B9D665C2D3D157F007BE404 /* SendBarButton@2x.png */; };
 		5BB0C9CE2D3B1FB4001D4575 /* CGChatTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0C9CD2D3B1FB4001D4575 /* CGChatTableCell.m */; };
-		5BB0C9D02D3B2182001D4575 /* CGChatTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BB0C9CF2D3B2182001D4575 /* CGChatTableCell.xib */; };
-		5BB0C9D22D3B22E5001D4575 /* CGAuthorChatTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BB0C9D12D3B22E5001D4575 /* CGAuthorChatTableCell.xib */; };
 		5BB7D95E2D731A8500C7C5AD /* searchbar-BG.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BB7D95C2D731A8500C7C5AD /* searchbar-BG.png */; };
 		5BB7D95F2D731A8500C7C5AD /* searchbar-BG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BB7D95D2D731A8500C7C5AD /* searchbar-BG@2x.png */; };
 		5BB7D9612D733F3800C7C5AD /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BB7D9602D733F3800C7C5AD /* icon.png */; };
@@ -280,8 +278,6 @@
 		5B9D665C2D3D157F007BE404 /* SendBarButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SendBarButton@2x.png"; sourceTree = "<group>"; };
 		5BB0C9CC2D3B1FB4001D4575 /* CGChatTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGChatTableCell.h; sourceTree = "<group>"; };
 		5BB0C9CD2D3B1FB4001D4575 /* CGChatTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGChatTableCell.m; sourceTree = "<group>"; };
-		5BB0C9CF2D3B2182001D4575 /* CGChatTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGChatTableCell.xib; sourceTree = "<group>"; };
-		5BB0C9D12D3B22E5001D4575 /* CGAuthorChatTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CGAuthorChatTableCell.xib; sourceTree = "<group>"; };
 		5BB7D95C2D731A8500C7C5AD /* searchbar-BG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "searchbar-BG.png"; sourceTree = "<group>"; };
 		5BB7D95D2D731A8500C7C5AD /* searchbar-BG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "searchbar-BG@2x.png"; sourceTree = "<group>"; };
 		5BB7D9602D733F3800C7C5AD /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
@@ -520,8 +516,6 @@
 				0AF6A7362D8CBF070060F3F8 /* CGAImageAttachment.h */,
 				0AF6A7372D8CBF070060F3F8 /* CGAImageAttachment.m */,
 				0AF6A7382D8CBF070060F3F8 /* CGAImageAttachment.xib */,
-				5BB0C9CF2D3B2182001D4575 /* CGChatTableCell.xib */,
-				5BB0C9D12D3B22E5001D4575 /* CGAuthorChatTableCell.xib */,
 				5BB0C9CC2D3B1FB4001D4575 /* CGChatTableCell.h */,
 				5BB0C9CD2D3B1FB4001D4575 /* CGChatTableCell.m */,
 				5B0D4FE62D5007300042D50A /* CGAuthorTableCell.h */,
@@ -910,7 +904,6 @@
 				0A0CE21C2DA134BD0069EA09 /* iOS7SendGlyph.png in Resources */,
 				5BB7D95F2D731A8500C7C5AD /* searchbar-BG@2x.png in Resources */,
 				49A1BBD12D351874002D9D00 /* InfoPlist.strings in Resources */,
-				5BB0C9D02D3B2182001D4575 /* CGChatTableCell.xib in Resources */,
 				5BBCB0312D3D48C70040A379 /* loadingToast@2x.png in Resources */,
 				0AA5E0E22DA1CEA000CDF20B /* iOS7newConversationThumbnail.png in Resources */,
 				5BBCB02D2D3D32A30040A379 /* inputOverlay@2x.png in Resources */,
@@ -928,7 +921,6 @@
 				5B7FCE492D6B6FC600DF4899 /* SBSeparator@2x.png in Resources */,
 				5B1AA2212D6A651D00FC07D5 /* hamburgerButton@2x.png in Resources */,
 				0AAF4D642D83642F008086AC /* KeyIFButton@2x.png in Resources */,
-				5BB0C9D22D3B22E5001D4575 /* CGAuthorChatTableCell.xib in Resources */,
 				0AA5E0E62DA1D3D700CDF20B /* iOS7HeaderSeparator.png in Resources */,
 				5B8A22312D3BC318001F84C3 /* separator2.png in Resources */,
 				5B9D66582D3C5624007BE404 /* Send.png in Resources */,
