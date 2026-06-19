@@ -16,7 +16,6 @@
 		0A0CE2292DA13DED0069EA09 /* iOS7ImageViewOL.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A0CE2272DA13DED0069EA09 /* iOS7ImageViewOL.png */; };
 		0A0CE22A2DA13DED0069EA09 /* iOS7ImageViewOL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A0CE2282DA13DED0069EA09 /* iOS7ImageViewOL@2x.png */; };
 		0A3722072D89777100EA788B /* CGImageAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A3722052D89777100EA788B /* CGImageAttachment.m */; };
-		0A3722082D89777100EA788B /* CGImageAttachment.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A3722062D89777100EA788B /* CGImageAttachment.xib */; };
 		0A53FA712D80BCEE00081FE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A53FA6F2D80BCEE00081FE9 /* Main.storyboard */; };
 		0A95635F2D8215E200CF99EC /* defaultAssistantAvatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A95635D2D8215E200CF99EC /* defaultAssistantAvatar.png */; };
 		0A9563622D82166F00CF99EC /* defaultAssistantAvatar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A9563612D82166F00CF99EC /* defaultAssistantAvatar@2x.png */; };
